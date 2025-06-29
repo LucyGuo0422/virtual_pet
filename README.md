@@ -79,8 +79,8 @@ test/                  # Unit tests
 
 ## Screenshot
 
-![Virtual Pet Screenshot](images/screenshot_1.png)
-![Virtual Pet Screenshot](images/screenshot_2.png)
+![Virtual Pet Screenshot](res/images/screenshot_1.png)
+![Virtual Pet Screenshot](res/images/screenshot_2.png)
 
 ## Credits
 
