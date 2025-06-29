@@ -1,0 +1,19 @@
+# IDE files
+.idea/
+*.iml
+
+# Build artifacts
+out/
+*.class
+*.jar
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
