@@ -1,5 +1,7 @@
 # Virtual Pet
 
+![Virtual Pet Screenshot](res/images/screenshot.png)
+
 ## Overview
 
 **Virtual Pet** is a desktop application that simulates the experience of caring for a digital pet. Users can feed, play with, clean, and put their pet to sleep, while also encountering random events through a "Mystery Box" feature. The application provides a rich, interactive GUI and leverages modern Object-Oriented Programming (OOP) principles and design patterns.
@@ -76,11 +78,6 @@ res/
   images/              # All image assets and screenshot
 test/                  # Unit tests
 ```
-
-## Screenshot
-
-![Virtual Pet Screenshot](res/images/screenshot_1.png)
-![Virtual Pet Screenshot](res/images/screenshot_2.png)
 
 ## Credits
 
